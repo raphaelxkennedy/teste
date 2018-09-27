@@ -1,2 +1,2 @@
-# teste
-# RAPHAEL KENNEDY
+# Projeto de tecnologia I.A
+# Raphael Kennedy
